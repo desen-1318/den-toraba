@@ -1,0 +1,18 @@
+
+
+.jumbotron{
+    padding: 6rem;
+    background-color: rgb(58, 188, 228);
+
+}
+h1{
+  color: rgba(184, 21, 21, 0.5);
+  
+  font-variant: small-caps;
+}
+h2{
+  color: rgba(43, 192, 142, 0.5);
+}
+.table{
+  padding: 10rem;
+}
